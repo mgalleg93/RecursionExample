@@ -1,0 +1,21 @@
+.grid-div {
+    display: flex;
+    flex-direction: column;
+}
+  
+.grid-row {
+    display: flex;
+}
+  
+.box {
+    height: 50px;
+    width: 50px;
+    margin: 10px;
+    border: solid 1px black;
+    align-content: center;
+    text-align: center;
+}
+
+.controls {
+    margin-bottom: 12px;
+}
